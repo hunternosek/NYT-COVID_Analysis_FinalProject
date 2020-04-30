@@ -1,0 +1,12 @@
+name: nyt-covid-analysis_Project
+title: nyt-covid-analysis_Project
+username:
+account: hnosek
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2219140
+bundleId: 3086952
+url: https://hnosek.shinyapps.io/nyt-covid-analysis_Project/
+when: 1588269821.84148
+asMultiple: FALSE
+asStatic: FALSE
